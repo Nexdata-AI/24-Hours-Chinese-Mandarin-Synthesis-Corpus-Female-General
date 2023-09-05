@@ -4,7 +4,8 @@
 ## Description
 Chinese Mandarin Synthesis Corpus-Female, General. It is recorded by Chinese native speaker. It covers oral sentences, audio books, news, advertising, customer service and movie commentary, and the phonemes and tones are balanced. Professional phonetician participates in the annotation. It precisely matches with the research and development needs of the speech synthesis.
 
-For more details, please refer to the link: https://bit.ly/3SeiYBY
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1140?source=Github
+
 
 ## Format
 48,000Hz, 16bit, uncompressed wav, mono channel;
